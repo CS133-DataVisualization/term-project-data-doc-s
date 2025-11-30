@@ -4,9 +4,11 @@
 Source: [Nutrition, Physical Activity and Obesity - Behavioral Risk Factor Surveillance System](https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-behavioral-risk-factor-surveillance-system) 
 
 ## Dependencies
-Data Processing: NumPy, Pandas
-Visualizations: Matplotlib, Seaborn
-Machine Learning: Scikit-learn
+* Data Processing: NumPy, Pandas
+<br>
+* Visualizations: Matplotlib, Seaborn
+<br>
+* Machine Learning: Scikit-learn
 
 ## Instructions
 1. Clone the repository
