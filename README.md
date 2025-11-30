@@ -7,6 +7,7 @@ Source: [Nutrition, Physical Activity and Obesity - Behavioral Risk Factor Surve
 * Data Processing: NumPy, Pandas
 * Visualizations: Matplotlib, Seaborn
 * Machine Learning: Scikit-learn
+* Environment: Python 3.x (3.8 or higher)
 
 ## Instructions
 1. Clone the repository
