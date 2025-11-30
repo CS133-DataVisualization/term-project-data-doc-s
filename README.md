@@ -12,4 +12,4 @@ Source: [Nutrition, Physical Activity and Obesity - Behavioral Risk Factor Surve
 1. Clone the repository
 2. Install required dependencies
 3. Download dataset from website and changed file name to NutritionDS.csv
-4. Ensure csv file is in the same folder as CS 133 ML Models.ipynb
+4. Ensure csv file is in the same folder as CS_133_ML_Models.ipynb
