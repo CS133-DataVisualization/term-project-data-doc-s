@@ -14,3 +14,7 @@ Source: [Nutrition, Physical Activity and Obesity - Behavioral Risk Factor Surve
 2. Install required dependencies
 3. Download dataset from our repo and change file name to NutritionDS.csv
 4. Ensure csv file is in the same folder as CS_133_ML_Models.ipynb
+
+## Instructions for running code on Google Colab
+1. Ensure dataset is downloaded as NutritionDS.csv in Google Drive
+2. Open code files and run code.
